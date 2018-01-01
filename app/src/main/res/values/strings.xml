@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ViewPagerDemo</string>
+    <string name="h1">卡茲雞腿漢堡</string>
+    <string name="h2">香雞漢堡</string>
+    <string name="h3">培根漢堡</string>
+    <string name="h4">超厚牛肉起司漢堡</string>
+    <string name="h5">黑胡椒豬排漢堡</string>
+    <string name="h6">豬肉漢堡</string>
+    <string name="h7">總匯三明治</string>
+    <string name="h8">總匯漢堡</string>
+    <string name="h9">鮪魚漢堡</string>
+    <string name="h10">檸檬雞漢堡</string>
+    <string name="h11">燻雞漢堡</string>
+    <string name="h12">羅漢素齋漢堡</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
